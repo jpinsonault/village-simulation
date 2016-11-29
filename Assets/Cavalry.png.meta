@@ -1,0 +1,1955 @@
+fileFormatVersion: 2
+guid: f6887180394ba2d4baacebd9d83f0d39
+timeCreated: 1462502038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cavalry_0
+    21300002: Cavalry_1
+    21300004: Cavalry_2
+    21300006: Cavalry_3
+    21300008: Cavalry_4
+    21300010: Cavalry_5
+    21300012: Cavalry_6
+    21300014: Cavalry_7
+    21300016: Cavalry_8
+    21300018: Cavalry_9
+    21300020: Cavalry_10
+    21300022: Cavalry_11
+    21300024: Cavalry_12
+    21300026: Cavalry_13
+    21300028: Cavalry_14
+    21300030: Cavalry_15
+    21300032: Cavalry_16
+    21300034: Cavalry_17
+    21300036: Cavalry_18
+    21300038: Cavalry_19
+    21300040: Cavalry_20
+    21300042: Cavalry_21
+    21300044: Cavalry_22
+    21300046: Cavalry_23
+    21300048: Cavalry_24
+    21300050: Cavalry_25
+    21300052: Cavalry_26
+    21300054: Cavalry_27
+    21300056: Cavalry_28
+    21300058: Cavalry_29
+    21300060: Cavalry_30
+    21300062: Cavalry_31
+    21300064: Cavalry_32
+    21300066: Cavalry_33
+    21300068: Cavalry_34
+    21300070: Cavalry_35
+    21300072: Cavalry_36
+    21300074: Cavalry_37
+    21300076: Cavalry_38
+    21300078: Cavalry_39
+    21300080: Cavalry_40
+    21300082: Cavalry_41
+    21300084: Cavalry_42
+    21300086: Cavalry_43
+    21300088: Cavalry_44
+    21300090: Cavalry_45
+    21300092: Cavalry_46
+    21300094: Cavalry_47
+    21300096: Cavalry_48
+    21300098: Cavalry_49
+    21300100: Cavalry_50
+    21300102: Cavalry_51
+    21300104: Cavalry_52
+    21300106: Cavalry_53
+    21300108: Cavalry_54
+    21300110: Cavalry_55
+    21300112: Cavalry_56
+    21300114: Cavalry_57
+    21300116: Cavalry_58
+    21300118: Cavalry_59
+    21300120: Cavalry_60
+    21300122: Cavalry_61
+    21300124: Cavalry_62
+    21300126: Walk1
+    21300128: Walk2
+    21300130: Walk3
+    21300132: Walk4
+    21300134: Walk5
+    21300136: Walk6
+    21300138: Walk7
+    21300140: Walk8
+    21300142: Cavalry_71
+    21300144: Cavalry_72
+    21300146: Cavalry_73
+    21300148: Cavalry_74
+    21300150: Cavalry_75
+    21300152: Cavalry_76
+    21300154: Cavalry_77
+    21300156: Cavalry_78
+    21300158: Cavalry_79
+    21300160: Cavalry_80
+    21300162: Cavalry_81
+    21300164: Cavalry_82
+    21300166: Cavalry_83
+    21300168: Cavalry_84
+    21300170: Cavalry_85
+    21300172: Cavalry_86
+    21300174: Cavalry_87
+    21300176: Cavalry_88
+    21300178: Cavalry_89
+    21300180: Cavalry_90
+    21300182: Cavalry_91
+    21300184: Cavalry_92
+    21300186: Cavalry_93
+    21300188: Cavalry_94
+    21300190: Cavalry_95
+    21300192: Cavalry_96
+    21300194: Cavalry_97
+    21300196: Cavalry_98
+    21300198: Cavalry_99
+    21300200: Cavalry_100
+    21300202: Cavalry_101
+    21300204: Cavalry_102
+    21300206: Cavalry_103
+    21300208: Cavalry_104
+    21300210: Cavalry_105
+    21300212: Cavalry_106
+    21300214: Cavalry_107
+    21300216: Cavalry_108
+    21300218: Cavalry_109
+    21300220: Cavalry_110
+    21300222: Cavalry_111
+    21300224: Cavalry_112
+    21300226: Cavalry_113
+    21300228: Cavalry_114
+    21300230: Cavalry_115
+    21300232: Cavalry_116
+    21300234: Cavalry_117
+    21300236: Cavalry_118
+    21300238: Cavalry_119
+    21300240: Cavalry_120
+    21300242: Cavalry_121
+    21300244: Cavalry_122
+    21300246: Cavalry_123
+    21300248: Cavalry_124
+    21300250: Cavalry_125
+    21300252: Cavalry_126
+    21300254: Cavalry_127
+    21300256: Cavalry_128
+    21300258: Cavalry_129
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cavalry_0
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 590
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 590
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 590
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 590
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 590
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 587
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_6
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 561
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -7.5}
+        - {x: -21.5, y: -13.5}
+        - {x: -17.5, y: -16.5}
+        - {x: 24.5, y: -16.5}
+        - {x: 27.5, y: -14.5}
+        - {x: 27.5, y: 16.5}
+        - {x: -15.5, y: 16.5}
+        - {x: -27.5, y: 13.5}
+    - name: Cavalry_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 561
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16.5}
+        - {x: -27.5, y: 7.5}
+        - {x: -27.5, y: -15.5}
+        - {x: -24.5, y: -16.5}
+        - {x: 26.5, y: -16.5}
+        - {x: 27.5, y: -14.5}
+        - {x: 27.5, y: 13.5}
+        - {x: 22.5, y: 16.5}
+    - name: Cavalry_8
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 561
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -11.5}
+        - {x: -22.5, y: -16.5}
+        - {x: 27.5, y: -16.5}
+        - {x: 27.5, y: 16.5}
+        - {x: -19.5, y: 16.5}
+        - {x: -27.5, y: 14.5}
+    - name: Cavalry_9
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 561
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16.5}
+        - {x: -27.5, y: 3.5}
+        - {x: -27.5, y: -14.5}
+        - {x: -18.5, y: -16.5}
+        - {x: 27.5, y: -16.5}
+        - {x: 27.5, y: 11.5}
+        - {x: 14.5, y: 16.5}
+    - name: Cavalry_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 482
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 48}
+        - {x: -35.5, y: 6}
+        - {x: -35.5, y: -48}
+        - {x: 35.5, y: -48}
+        - {x: 35.5, y: 48}
+    - name: Cavalry_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 484
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 45}
+        - {x: -39.5, y: 4}
+        - {x: -39.5, y: -40}
+        - {x: -36.5, y: -45}
+        - {x: 33.5, y: -45}
+        - {x: 39.5, y: -41}
+        - {x: 39.5, y: 45}
+    - name: Cavalry_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 484
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -20}
+        - {x: 46.5, y: -7}
+        - {x: 46.5, y: 48}
+        - {x: -14.5, y: 48}
+        - {x: -46.5, y: -3}
+        - {x: -46.5, y: -48}
+        - {x: 28.5, y: -48}
+        - {x: 37.5, y: -42}
+        - {x: 41.5, y: -34}
+        - {x: 38.5, y: -33}
+    - name: Cavalry_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 484
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: 18, y: 22}
+        - {x: 39, y: 43}
+        - {x: 39, y: 45}
+        - {x: -12, y: 45}
+        - {x: -40, y: 25}
+        - {x: -40, y: -45}
+        - {x: 40, y: -45}
+        - {x: 40, y: 27}
+        - {x: 24, y: 25}
+    - name: Cavalry_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 484
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 45}
+        - {x: -40, y: -2}
+        - {x: -40, y: -45}
+        - {x: 40, y: -45}
+        - {x: 40, y: 45}
+    - name: Cavalry_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 568
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 568
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_18
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_20
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 568
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 568
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_23
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 568
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_24
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 565
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_25
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 568
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_26
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 568
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_27
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_28
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_29
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 568
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_30
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 568
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_31
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_32
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 565
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_33
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 568
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_34
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 552
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_35
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 565
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_36
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 568
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_37
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 568
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_38
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 568
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 565
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_40
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 552
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 552
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_42
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 550
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_43
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 552
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 552
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 552
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_46
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 549
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_47
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 552
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_48
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 552
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_49
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 552
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_50
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 552
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_51
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 552
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_52
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 552
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_53
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 552
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_54
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 552
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_55
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 550
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_56
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 552
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_57
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 552
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_58
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 552
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_59
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 499
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 16.5}
+        - {x: -27.5, y: 3.5}
+        - {x: -27.5, y: -11.5}
+        - {x: -19.5, y: -16.5}
+        - {x: 27.5, y: -16.5}
+        - {x: 27.5, y: 10.5}
+        - {x: 18.5, y: 16.5}
+    - name: Cavalry_60
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 499
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 12.5}
+        - {x: 11.5, y: 16.5}
+        - {x: -5.5, y: 16.5}
+        - {x: -27.5, y: 3.5}
+        - {x: -27.5, y: -11.5}
+        - {x: -15.5, y: -16.5}
+        - {x: 26.5, y: -16.5}
+        - {x: 27.5, y: -14.5}
+        - {x: 27.5, y: 5.5}
+    - name: Cavalry_61
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 499
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16.5}
+        - {x: -3, y: 16.5}
+        - {x: -30, y: 1.5}
+        - {x: -30, y: -14.5}
+        - {x: -29, y: -16.5}
+        - {x: 22, y: -16.5}
+        - {x: 28, y: -15.5}
+        - {x: 30, y: -6.5}
+        - {x: 30, y: 8.5}
+    - name: Cavalry_62
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 500
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -29, y: 0}
+        - {x: -29, y: -10}
+        - {x: -14, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 4}
+        - {x: 15, y: 16}
+    - name: Walk1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 351
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 45}
+        - {x: -40.5, y: -7}
+        - {x: -40.5, y: -45}
+        - {x: 30.5, y: -45}
+        - {x: 40.5, y: -35}
+        - {x: 40.5, y: 45}
+    - name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 351
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 45}
+        - {x: -39.5, y: -6}
+        - {x: -39.5, y: -45}
+        - {x: 38.5, y: -45}
+        - {x: 39.5, y: -44}
+        - {x: 39.5, y: 45}
+    - name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 350
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -26}
+        - {x: 38, y: -25}
+        - {x: 40, y: -25}
+        - {x: 40, y: 45}
+        - {x: -6, y: 45}
+        - {x: -40, y: 0}
+        - {x: -40, y: -45}
+        - {x: 37, y: -45}
+        - {x: 40, y: -34}
+        - {x: 40, y: -26}
+    - name: Walk4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 351
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 40}
+        - {x: -39.5, y: -6}
+        - {x: -39.5, y: -48}
+        - {x: 31.5, y: -48}
+        - {x: 39.5, y: -44}
+        - {x: 39.5, y: 48}
+        - {x: 14.5, y: 48}
+        - {x: 10.5, y: 47}
+    - name: Walk5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 351
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 46.5}
+        - {x: -34.5, y: 1.5}
+        - {x: -38.5, y: -7.5}
+        - {x: -38.5, y: -46.5}
+        - {x: 38.5, y: -46.5}
+        - {x: 38.5, y: 46.5}
+    - name: Walk6
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 351
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 45.5}
+        - {x: -39, y: -5.5}
+        - {x: -39, y: -45.5}
+        - {x: 39, y: -45.5}
+        - {x: 39, y: 45.5}
+    - name: Walk7
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 350
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 46}
+        - {x: -36.5, y: 14}
+        - {x: -37.5, y: 8}
+        - {x: -37.5, y: -46}
+        - {x: 37.5, y: -46}
+        - {x: 37.5, y: 46}
+    - name: Walk8
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 351
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 23}
+        - {x: 19, y: 21}
+        - {x: 17, y: 18}
+        - {x: 36, y: 40}
+        - {x: 40, y: 45}
+        - {x: 40, y: 47}
+        - {x: 0, y: 47}
+        - {x: -5, y: 46}
+        - {x: -40, y: -2}
+        - {x: -40, y: -47}
+        - {x: 37, y: -47}
+        - {x: 40, y: -43}
+        - {x: 40, y: 23}
+        - {x: 36, y: 26}
+    - name: Cavalry_71
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 373
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_72
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 370
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_73
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 370
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_74
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 373
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_75
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 373
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_76
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 373
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_77
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 370
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_78
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 317
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: Cavalry_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 355
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 352
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_81
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 355
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_82
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 355
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_83
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 355
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_84
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 339
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_85
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 339
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_86
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 339
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_87
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 339
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_88
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 336
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_89
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 339
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_90
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 339
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_91
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 339
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_92
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 337
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_93
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 336
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_94
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 339
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_95
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 339
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_96
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 339
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_97
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 339
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_98
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 339
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_99
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 191
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -25.5}
+        - {x: 38.5, y: -25.5}
+        - {x: 50.5, y: -25.5}
+        - {x: 50.5, y: -8.5}
+        - {x: 37.5, y: 2.5}
+        - {x: 34.5, y: 2.5}
+        - {x: 31.5, y: -0.5}
+        - {x: 27.5, y: -0.5}
+        - {x: 29.5, y: 1.5}
+        - {x: 30.5, y: 10.5}
+        - {x: 44.5, y: 63.5}
+        - {x: 43.5, y: 67.5}
+        - {x: 34.5, y: 67.5}
+        - {x: -17.5, y: 21.5}
+        - {x: -50.5, y: -15.5}
+        - {x: -50.5, y: -67.5}
+        - {x: 39.5, y: -67.5}
+        - {x: 50.5, y: -63.5}
+        - {x: 50.5, y: -39.5}
+        - {x: 44.5, y: -28.5}
+    - name: Cavalry_100
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 191
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 67.5}
+        - {x: -21, y: 64.5}
+        - {x: -53, y: 17.5}
+        - {x: -53, y: -51.5}
+        - {x: -46, y: -67.5}
+        - {x: 32, y: -67.5}
+        - {x: 53, y: -58.5}
+        - {x: 53, y: -8.5}
+        - {x: -15, y: 67.5}
+    - name: Cavalry_101
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 320
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_102
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_103
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_104
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 323
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_105
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_106
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 320
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_107
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_108
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_109
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_110
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 323
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_111
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_112
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 323
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_113
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 323
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cavalry_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 44}
+        - {x: -55, y: -11}
+        - {x: -55, y: -35}
+        - {x: -27, y: -40}
+        - {x: -22, y: -44}
+        - {x: 42, y: -44}
+        - {x: 55, y: -35}
+        - {x: 55, y: 44}
+    - name: Cavalry_115
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 188
+        width: 107
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 45.5}
+        - {x: -53.5, y: -40.5}
+        - {x: -45.5, y: -45.5}
+        - {x: 53.5, y: -45.5}
+        - {x: 53.5, y: 18.5}
+        - {x: 41.5, y: 45.5}
+    - name: Cavalry_116
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 198
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 44}
+        - {x: 22, y: 26}
+        - {x: 22, y: 23}
+        - {x: 18, y: 39}
+        - {x: 11, y: 42}
+        - {x: -30, y: 48}
+        - {x: -51, y: 48}
+        - {x: -51, y: 43}
+        - {x: -42, y: 38}
+        - {x: -51, y: 2}
+        - {x: -51, y: -32}
+        - {x: -42, y: -48}
+        - {x: 48, y: -48}
+        - {x: 51, y: -44}
+        - {x: 51, y: 35}
+        - {x: 50, y: 39}
+    - name: Cavalry_117
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 203
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -9}
+        - {x: 37.5, y: -10}
+        - {x: 41.5, y: 0}
+        - {x: 53.5, y: -7}
+        - {x: 59.5, y: -6}
+        - {x: 59.5, y: 41}
+        - {x: -58.5, y: 41}
+        - {x: -59.5, y: 35}
+        - {x: -59.5, y: 3}
+        - {x: -52.5, y: 0}
+        - {x: -49.5, y: 0}
+        - {x: -45.5, y: -2}
+        - {x: -43.5, y: -2}
+        - {x: -40.5, y: 1}
+        - {x: -38.5, y: -1}
+        - {x: -44.5, y: -2}
+        - {x: -50.5, y: -7}
+        - {x: -58.5, y: -17}
+        - {x: -59.5, y: -21}
+        - {x: -59.5, y: -40}
+        - {x: -39.5, y: -41}
+        - {x: 41.5, y: -41}
+        - {x: 59.5, y: -31}
+        - {x: 59.5, y: -30}
+        - {x: 52.5, y: -22}
+    - name: Cavalry_118
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 205
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 34}
+        - {x: -57, y: 21}
+        - {x: -57, y: -34}
+        - {x: 56, y: -34}
+        - {x: 57, y: -33}
+        - {x: 57, y: 34}
+    - name: Cavalry_119
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 205
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 21}
+        - {x: -32.5, y: 19}
+        - {x: -45.5, y: 7}
+        - {x: -45.5, y: -21}
+        - {x: 45.5, y: -21}
+        - {x: 45.5, y: 16}
+        - {x: 41.5, y: 21}
+    - name: Cavalry_120
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 204
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 17.5}
+        - {x: -44, y: 3.5}
+        - {x: -44, y: -17.5}
+        - {x: 44, y: -17.5}
+        - {x: 44, y: 7.5}
+        - {x: 14, y: 17.5}
+    - name: Cavalry_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 42}
+        - {x: -18.5, y: 42}
+        - {x: -44.5, y: -16}
+        - {x: -44.5, y: -42}
+        - {x: 26.5, y: -42}
+        - {x: 33.5, y: -34}
+        - {x: 44.5, y: -35}
+        - {x: 44.5, y: 37}
+    - name: Cavalry_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 44}
+        - {x: -46.5, y: -13}
+        - {x: -46.5, y: -44}
+        - {x: 29.5, y: -44}
+        - {x: 46.5, y: -31}
+        - {x: 46.5, y: 34}
+        - {x: 36.5, y: 44}
+    - name: Cavalry_123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 30
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -30.5}
+        - {x: 67, y: -16.5}
+        - {x: 67, y: 44.5}
+        - {x: -67, y: 44.5}
+        - {x: -67, y: -44.5}
+        - {x: 50, y: -44.5}
+        - {x: 67, y: -37.5}
+        - {x: 67, y: -32.5}
+        - {x: 66, y: -31.5}
+    - name: Cavalry_124
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 30
+        width: 138
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 41.5}
+        - {x: -65, y: -0.5}
+        - {x: -69, y: -8.5}
+        - {x: -69, y: -40.5}
+        - {x: -66, y: -41.5}
+        - {x: 69, y: -41.5}
+        - {x: 69, y: 35.5}
+        - {x: 42, y: 41.5}
+    - name: Cavalry_125
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 30
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 44}
+        - {x: -16, y: 44}
+        - {x: -45, y: -5}
+        - {x: -47, y: -18}
+        - {x: -47, y: -42}
+        - {x: -42, y: -44}
+        - {x: 24, y: -44}
+        - {x: 47, y: -29}
+        - {x: 47, y: 33}
+        - {x: 34, y: 41}
+    - name: Cavalry_126
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 30
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -14}
+        - {x: -46, y: -55}
+        - {x: 30, y: -55}
+        - {x: 46, y: -44}
+        - {x: 46, y: 55}
+        - {x: -1, y: 55}
+        - {x: -33, y: 43}
+    - name: Cavalry_127
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 30
+        width: 108
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 1.5}
+        - {x: -54, y: -66.5}
+        - {x: 54, y: -66.5}
+        - {x: 54, y: 66.5}
+        - {x: 1, y: 66.5}
+        - {x: -36, y: 45.5}
+    - name: Cavalry_128
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 25
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 44.5}
+        - {x: -16.5, y: 44.5}
+        - {x: -51.5, y: -4.5}
+        - {x: -51.5, y: -41.5}
+        - {x: -35.5, y: -44.5}
+        - {x: 51.5, y: -44.5}
+        - {x: 51.5, y: 26.5}
+        - {x: 45.5, y: 32.5}
+    - name: Cavalry_129
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 4
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 56}
+        - {x: -15.5, y: 55}
+        - {x: -53.5, y: 12}
+        - {x: -53.5, y: -38}
+        - {x: -17.5, y: -56}
+        - {x: 35.5, y: -56}
+        - {x: 53.5, y: -39}
+        - {x: 53.5, y: 28}
+        - {x: 10.5, y: 56}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
